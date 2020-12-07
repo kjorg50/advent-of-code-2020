@@ -1,6 +1,6 @@
 // Advent of Code
-// Day 01
-// https://adventofcode.com/2020/day/1
+// Day 02
+// https://adventofcode.com/2020/day/2
 
 import java.io.File
 

@@ -1,4 +1,4 @@
-# advent-of-code-2018
+# advent-of-code-2020
 https://adventofcode.com/ 
 
 ## Kotlin Usage
@@ -18,3 +18,10 @@ For each day
 Usage: kotlinr day0X.kt
 ```
 
+### Template
+
+Run the `newDay.sh` template script to setup the folder for each new day
+
+```
+sh newDay.sh 01
+```
